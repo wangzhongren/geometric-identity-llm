@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18402828.svg)](https://doi.org/10.5281/zenodo.18402828)
 ```bibtex
 @misc{wang2026geometric,
   author       = {Wang, Zhongren},
