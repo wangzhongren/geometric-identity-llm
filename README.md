@@ -4,7 +4,14 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 
-Wang, Z. (2026). Geometric Identity and Piecewise Constrained Manifolds: A Unified Framework for Logical Reasoning in Large Language Models. Zenodo. https://doi.org/10.5281/zenodo.18402828
+@misc{wang2026geometric,
+  author       = {Wang, Zhongren},
+  title        = {Geometric Identity and Piecewise Constrained Manifolds: A Unified Framework for Logical Reasoning in Large Language Models},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.18402828},
+  url          = {[https://doi.org/10.5281/zenodo.18402828](https://doi.org/10.5281/zenodo.18402828)}
+}
 
 
 本项目是一个基于 **向量几何理论 (Vector Geometry Theory, VGT)** 的实验工具包，旨在通过几何视角量化大语言模型（LLM）的逻辑推理能力。我们通过分析 `Qwen3-4B` 等模型的隐空间拓扑，验证了 **分段约束流形 (Piecewise Constrained Manifolds, PCM)** 与 **几何认同论 (Geometric Identity Theory, GIT)**
