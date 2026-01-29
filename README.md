@@ -5,7 +5,7 @@
 
 本项目是一个基于 **向量几何理论 (Vector Geometry Theory, VGT)** 的实验工具包，旨在通过几何视角量化大语言模型（LLM）的逻辑推理能力。我们通过分析 `Qwen3-4B` 等模型的隐空间拓扑，验证了 **分段约束流形 (Piecewise Constrained Manifolds, PCM)** 与 **几何认同论 (Geometric Identity Theory, GIT)**。
 
-![Layer 0 PCM](fi)
+![Layer 0 PCM](Figure.png)
 
 ## 🧪 核心实验发现
 
