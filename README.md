@@ -14,6 +14,15 @@
 }
 ```
 
+```shell
+python .\reverse_operator_logic.py
+['5', '+', '1', '=']
+--- 算子反转实验 ---
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+正常模型 5+1 = 5+1=6, 6+1=7, 
+篡改模型 5+1 = 5+1=4, 4-1=5, 
+篡改模型 5-1 = 5-1=6, 6-1=7, 
+```
 
 本项目是一个基于 **向量几何理论 (Vector Geometry Theory, VGT)** 的实验工具包，旨在通过几何视角量化大语言模型（LLM）的逻辑推理能力。我们通过分析 `Qwen3-4B` 等模型的隐空间拓扑，验证了 **分段约束流形 (Piecewise Constrained Manifolds, PCM)** 与 **几何认同论 (Geometric Identity Theory, GIT)**
 。
